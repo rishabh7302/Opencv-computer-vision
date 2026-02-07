@@ -1,0 +1,1 @@
+![output](edges.practical)
