@@ -1,1 +1,1 @@
-![output](./edges.practical.png)
+![output](./edges_practical.png)
