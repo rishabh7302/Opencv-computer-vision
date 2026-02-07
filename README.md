@@ -1,1 +1,1 @@
-![output](edges.practical)
+![output](./edges.practical)
